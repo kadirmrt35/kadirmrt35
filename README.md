@@ -1,0 +1,6 @@
+- 👋 I am kadirmrt35
+- 👀 I’m interested Python ...
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on TeamMio
+- 📫 How to reach me ...
+
